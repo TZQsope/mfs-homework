@@ -150,3 +150,6 @@ git config --global credential.helper store
 
 当然，上面所有在bash终端执行的命令行操作都可以使用vscode的窗口操作，那样更简单。
 
+# 谭紫倩的作业库
+> 码蜂社 前端基础班 作业答题库
+**码蜂社和谭紫倩版权所有，转载请注明出处**
