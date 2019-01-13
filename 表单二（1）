@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8">
+   <title>码蜂社前端例子表格一</title>
+   <meta name="keywords" content="HTML, CSS, JavaScript">
+ </head>
+<body>
+    <form action="/someaction" method="post" enctype="multipart/form-data">
+     
+        <fieldset>
+            
+            <legend>Personal information:</legend>
+             username:  <input type="text" name="first_name"placeholder="请输入用户名"/>
+        </br>
+        </br>
+        password:  <input type="password" name="password" placeholder="请输入密码"/>
+    </br>
+    </br>
+    sex: 
+    <input type="radio" name="sex" value="male"> male
+         <input type="radio" name="sex" value="female"> female
+                <INPUT TYPE="submit" value="提交" name="submit">
+    </form>
+</body>
+</html>
