@@ -2,7 +2,7 @@
 <html>
 <head>
    <meta charset="utf-8">
-   <title>码蜂社前端例子表格一</title>
+   <title>码蜂社前端例子表格二（2）</title>
    <meta name="keywords" content="HTML, CSS, JavaScript">
  </head>
 <body>
@@ -11,7 +11,8 @@
         <fieldset>
             
             <legend>sign up:</legend>
-            email:  <input type="email" name="email" autofocus/>
+            email:  
+            <input type="email" title="请输入有效邮箱" required>
         </div>
         <input type="submit" name="submit" value="Submit" />
         </br>
@@ -32,4 +33,4 @@
 </div><input type="submit" name="submit" value="Submit" />
     </form>
 </body>
-</html>  
+</html>
