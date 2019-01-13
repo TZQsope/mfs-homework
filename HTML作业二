@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8">
+   <title>码蜂社前端例子</title>
+ </head>
+<body>
+   <h1>谭紫倩</h1>
+   <h2>作业</h2>
+   <p><span>HTML</span>作业</p>
+   <div><strong>点击链接登录</strong></div>
+   <a href="https://github.com/TZQsope/mfs-homework/new/master" target="_blank">This is a link</a>
+   <hr/>
+   <p><mark>查看作业</mark></p>>
+   <ol>
+    <li>ReadMe</li>
+    <a href="https://github.com/TZQsope/mfs-homework/blob/master/README.md" target="_blank">This is a link</a>
+    <li>作业一</li>
+    <a href="https://github.com/TZQsope/mfs-homework/blob/master/html%E4%BD%9C%E4%B8%9A%E4%B8%80" target="_blank">This is a link</a>
+    <li>作业二</li>
+  </ol>
+
+  <img src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=1565387832,3495567657&fm=173&app=25&f=JPEG?w=640&h=640&s=8820EE17565B6BCC2E6E546F0300807B" width="100" height="100" alt="alt"/>
+  
+  <hr/>
+ <p> <em>进行学习</em></p>
+    <li>学习</li>
+    <a href="https://work.mafengshe.com/" target="_blank">This is a link</a>
+    
+    <br/>
+    
+    <li>讲义</li>
+    <a href="http://fe-base.books.mafengshe.com/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/HTML/%E5%B8%B8%E8%A7%81%E6%A0%87%E7%AD%BE%E5%8F%8A%E5%85%B6%E5%B1%9E%E6%80%A7.html" target="_blank">This is a link</a> 
+    <p><span>查看分数</span></p>
+  <button>按钮</button>
+ 
+  <table>
+    <tr>
+      <th>姓名</th>
+      <th>作业</th> 
+      <th>分数</th>
+    </tr>
+    <tr>
+      <td>谭紫倩</td>
+      <td>作业一</td> 
+      <td>XX</td>
+    </tr>
+    <tr>
+      <td>TTT</td>
+      <td>作业一</td> 
+      <td>XX</td>
+    </tr>
+  </table>
+  
+</body>
+</html>
