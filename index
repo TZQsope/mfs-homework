@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>index例子</title>
+   <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+   <script src="main.js">
+       alert("sadfasdf")
+   </script>
+   <link rel="stylesheet" href="style.css">
+ </head>
+<body>
+   <div>
+   谭紫倩
+   </div>
+   <script>
+   </script>
+</body>
+</html>
+
+main.js部分：
+alert("弹出框1")
+
+style.css部分：
+div{
+    border: 1px solid green;
+}
