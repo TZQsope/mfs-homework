@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>iframe</title>
+    </head>
+    <body>
+        <div>
+            <a href="http://www.sina.com.cn" target="iframe">新浪</a>
+            <a href="http://www.mafengshe.com" target="iframe1">码蜂社</a>
+        </div>
+        <iframe name="iframe" src="http://www.baidu.com" width=600px height=800px></iframe>
+        <iframe name="iframe1" src="http://www.hao123.com" width=600px height=800px></iframe>
+</html>
