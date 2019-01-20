@@ -10,30 +10,26 @@
     <fieldset>
         <legend>Personal information:</legend>
         username:  <input type="text" name="first_name"placeholder="请输入用户名"/>
-    </br>
-    </br>
+    <div></div>
         password:  <input type="password" name="password" placeholder="请输入密码"/>
-    </br>
-    </br>
+    <div></div>
 sex: 
     <input type="radio" name="sex" value="male"> male
     <input type="radio" name="sex" value="female"> female
-    </br>
-    </br>
-skill: 
+    <div></div>
+skill:
+<div> 
     <input type="checkbox" name="skill" value="on"> HTML
     <input type="checkbox" name="skill" value="on"> CSS
     <input type="checkbox" name="skill" value="on"> JavaScript
-    </br>
-    </br>
+</div>
 city:
     <select name="city">
         <option value="Beijing" label="北京" selected>北京(Concept and Practice)</option>
         <option value="Shanghai" label="上海">上海(Concept and Practice)</option>
         <option value="Shenzhen" label="深圳" selected>深圳(Concept and Practice)</option>
     </select>
-    </br>
-    </br>
+    <div></div>
     <input type="submit" name="submit" value="Submit" />
     <input type="reset" name="reset"  value="Reset" />
     </fieldset>
