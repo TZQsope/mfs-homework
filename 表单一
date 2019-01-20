@@ -4,42 +4,39 @@
    <meta charset="utf-8">
    <title>码蜂社前端例子表格一</title>
    <meta name="keywords" content="HTML, CSS, JavaScript">
- </head>
+</head>
 <body>
     <form action="/someaction" method="post" enctype="multipart/form-data">
-        <fieldset>
-            
+    <fieldset>
         <legend>Personal information:</legend>
-         username:  <input type="text" name="first_name"placeholder="请输入用户名"/>
+        username:  <input type="text" name="first_name"placeholder="请输入用户名"/>
     </br>
     </br>
-    password:  <input type="password" name="password" placeholder="请输入密码"/>
-</br>
-</br>
+        password:  <input type="password" name="password" placeholder="请输入密码"/>
+    </br>
+    </br>
 sex: 
-<input type="radio" name="sex" value="male"> male
-     <input type="radio" name="sex" value="female"> female
-</br>
-</br>
+    <input type="radio" name="sex" value="male"> male
+    <input type="radio" name="sex" value="female"> female
+    </br>
+    </br>
 skill: 
-<input type="checkbox" name="skill" value="on"> HTML
-<input type="checkbox" name="skill" value="on"> CSS
-<input type="checkbox" name="skill" value="on"> JavaScript
-</br>
-</br>
+    <input type="checkbox" name="skill" value="on"> HTML
+    <input type="checkbox" name="skill" value="on"> CSS
+    <input type="checkbox" name="skill" value="on"> JavaScript
+    </br>
+    </br>
 city:
-<select name="city">
-  
-    <option value="Beijing" label="北京" selected>北京(Concept and Practice)</option>
-    <option value="Shanghai" label="上海">上海(Concept and Practice)</option>
-    <option value="Shenzhen" label="深圳" selected>深圳(Concept and Practice)</option>
- 
-</select>
-</br>
-</br>
-<input type="submit" name="submit" value="Submit" />
-<input type="reset" name="reset"  value="Reset" />
-</fieldset>
+    <select name="city">
+        <option value="Beijing" label="北京" selected>北京(Concept and Practice)</option>
+        <option value="Shanghai" label="上海">上海(Concept and Practice)</option>
+        <option value="Shenzhen" label="深圳" selected>深圳(Concept and Practice)</option>
+    </select>
+    </br>
+    </br>
+    <input type="submit" name="submit" value="Submit" />
+    <input type="reset" name="reset"  value="Reset" />
+    </fieldset>
     </form>
 </body>
 </html>
