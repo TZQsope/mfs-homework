@@ -4,7 +4,6 @@
    <title>index例子</title>
    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
    <script src="main.js">
-       alert("sadfasdf")
    </script>
    <link rel="stylesheet" href="style.css">
  </head>
@@ -15,7 +14,7 @@
    <script>
    </script>
 </body>
-</html>
+</html>  
 
 main.js部分：
 alert("弹出框1")
