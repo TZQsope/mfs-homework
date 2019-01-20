@@ -10,12 +10,10 @@
      
 <fieldset>
         <legend>Personal information:</legend>
-        username:  <input type="text" name="first_name"placeholder="请输入用户名"/>
-        </br>
-        </br>
+        username:  <input type="text" name="first_name"placeholder="请输入用户名"/> 
+    <div></div>  
         password:  <input type="password" name="password" placeholder="请输入密码"/>
-    </br>
-    </br>
+    <div></div>
     sex: 
         <input type="radio" name="sex" value="male"> male
         <input type="radio" name="sex" value="female"> female
@@ -23,3 +21,5 @@
     </form>
 </body>
 </html>
+
+
