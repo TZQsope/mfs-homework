@@ -13,16 +13,13 @@
             
     email:  
         <input type="email" title="请输入有效邮箱" required>
-        </div>
+    </div>
         <input type="submit" name="submit" value="Submit" />
-        </br>
-        </br>
+    </div>
         
     number: 
         <input type="number" min="0" max="100" step="2"/>
         </div><input type="submit" name="submit" value="Submit" />
-        </br>
-        </br>
     city:
         <input list="city">
         <datalist id="city">
