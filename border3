@@ -12,10 +12,9 @@
             width: 50px;
             height: 50px;
             background: white;
-            border: 10px solid white;
-            border-left: 20px solid  red;
-            border-right-color: 60px  white;
-            border-bottom-color: 100px  white;
+            border: 100px solid transparent;
+            border-right: 0px ;
+            border-bottom-color: green ;
            }
     </style>
 </head>
