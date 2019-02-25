@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>hover</title>
+    <style>
+   button{
+    height: 80px;
+    width: 100px;
+       background-image: url(https://img3.duitang.com/uploads/item/201604/29/20160429144133_xPmQs.thumb.700_0.jpeg);
+       background-position:150 150px; }
+       
+button:hover{background-position:0 100px};
+  
+ 
+    </style>
+</head>
+<body>
+   <button>按钮</button>
+   
+  </body>
+</html> 
