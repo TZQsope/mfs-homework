@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>码蜂社导航栏</title>
+    <title>浮动</title>
     <style>
         * {
         margin: 0;
@@ -16,12 +16,12 @@
            
         }
         li{
-            float: left;/*浮动:文本悬浮。脱离了文档流，悬浮在文档上方*/
+            float: left;
             width: 80px;
             color:black;
             margin: 10px;
             font-size: 15px;
-            text-align: center;/*文本居中*/
+            text-align: center;
             cursor: pointer;
         }
         .li1{
